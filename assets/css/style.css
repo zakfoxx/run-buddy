@@ -300,3 +300,13 @@ section {
   margin: 16px;
 }
 /* REACH OUT STYLES END */
+.page-title {
+  color: #fce138;
+  display: inline-block;
+  border: 0px;
+  border-bottom: 4px solid #fce138;
+  padding: 0px 80px 15px 80px;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 42px;
+}
