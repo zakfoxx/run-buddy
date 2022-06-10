@@ -296,8 +296,14 @@ section {
   margin-left: 64px;
   text-align: left;
 }
-.contact-info-container > h3 {
+.contact-info-container h3 {
   margin: 16px;
+}
+.contact-form {
+  margin-top: -250px;
+  margin-left: 50px;
+  color: #fce138;
+  font-size: 28px;
 }
 /* REACH OUT STYLES END */
 .page-title {
