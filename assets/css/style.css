@@ -300,10 +300,14 @@ section {
   margin: 16px;
 }
 .contact-form {
-  margin-top: -250px;
-  margin-left: 50px;
   color: #fce138;
   font-size: 28px;
+  margin-left: 64px;
+  display: flex;
+  width: 410px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px 0 250px 60px;
 }
 /* REACH OUT STYLES END */
 .page-title {
